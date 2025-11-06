@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GeospatialTestAR.sln"
+    "dotnet.defaultSolution": "GeospatialTestAR.sln",
+    "dotnet.preferCSharpExtension": true
 }
