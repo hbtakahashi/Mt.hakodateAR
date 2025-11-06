@@ -2,8 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-secrets.json
-config/api_keys.yml
+ProjectSettings/ARCoreExtentionsProjectSetting.json
 
 .utmp/
 /[Ll]ibrary/
